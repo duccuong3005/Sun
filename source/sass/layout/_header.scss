@@ -1,5 +1,5 @@
 .header{
-	background:#e3e3e3;
+	background:red;
 }
 ul.menu-main{
 	margin-top:20px;
@@ -10,7 +10,7 @@ ul.menu-main{
 		margin:0 15px;
 		a{
 			line-height:85px;
-			color:#333;
+			color:#fff;
 			transition:all .5s;
 			&:hover{
 				color:#428bca;
@@ -26,7 +26,7 @@ ul.menu-company{
 		display:inline-block;
 		margin-right:30px;
 		a{
-			color:#333;
+			color:#fff;
 			transition:all .3s;
 			&:hover{
 				color:#428bca;
